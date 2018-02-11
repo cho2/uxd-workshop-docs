@@ -1727,7 +1727,7 @@ Tambahan bagian footer sebelum **&-copyright {**:
   }
 ```
 
-##### File components/_text.scss
+##### File core/_text.scss
 
 Pada bagian text kita rubah sedikit font-size pada class x-large di mode mobile, silahkan rubah code berikut :
 
